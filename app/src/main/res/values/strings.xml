@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">Settings App</string>
+
+    <!-- Dark Mode -->
+    <string name="settings_dark_mode_title">Modo Oscuro</string>
+    <string name="settings_dark_mode_description">Activa el modo oscuro para un cambio visual</string>
+
+    <!-- Bluetooth -->
+    <string name="settings_bluetooth_title">Activar Bluetooth</string>
+    <string name="settings_bluetooth_description">Conecta periféricos sin cables</string>
+
+    <!-- Volume -->
+    <string name="settings_volume_title">Subir el volumen</string>
+
+    <!-- Vibration" -->
+    <string name="settings_vibration_title">Vibrar en las llamadas</string>
+
+
+    <!-- Content Descriptions for ImageViews" -->
+    <string name="settings_dark_mode_cd">Modo Oscuro</string>
+    <string name="settings_bluetooth_cd">Bluetooth</string>
+    <string name="settings_volume_cd">Volumen</string>
+    <string name="settings_vibration_cd">Vibrar</string>
+
+    <!-- Content Descriptions for RangeSlider" -->
+    <string name="settings_volume_rs_cd">Ajustar volumen</string>
+
+    <!-- Content Descriptions for SwitchMaterial" -->
+    <string name="settings_dark_mode_sw_cd">Modo Oscuro Desactivado</string>
+    <string name="settings_bluetooth_sw_cd">Bluetooth Desactivado</string>
+    <string name="settings_vibration_sw_cd">Vibrar Desactivado</string>
+
 </resources>
